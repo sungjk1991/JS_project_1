@@ -1,0 +1,89 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.myImage {
+  height: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.img1 {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("https://cdn.sandals.com/beaches/v12/images/resorts/btc/home/slideshow/aerial-beach-shot.jpg");
+
+}
+
+#splash_head {
+  color: cyan;
+  font-size: 80px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-weight: bold;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
+}
+
+.blockIndent {
+  display: block;
+  color: black;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  text-indent: 10%;
+  margin: auto;
+  float: center;
+}
+
+#header {
+  color: pink;
+  font-size: 60px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  text-indent: 6%;
+  margin-bottom: 3%;
+  font-weight: bold;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+
+#images {
+  margin-left: 12%;
+  margin-right: auto;
+  margin-top: 3%;
+  width: 60%;
+  border: 5px solid black;
+  border-radius: 60px;
+  text-align: 10%;
+}
+
+.caption {
+  margin-left: 24%;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 20px;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: lightcyan;
+}
+
+#paragraphStyles {
+  color: black;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  text-indent: 6%;
+  margin-left: 6%;
+  margin-right: 15%;
+  margin-bottom: 3%;
+  padding: 1%;
+  float: center;
+  background-color: lightcyan;
+  border-radius: 10px;
+}
+
+.activities {
+  color: coral;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+  font-size: 50px;
+}

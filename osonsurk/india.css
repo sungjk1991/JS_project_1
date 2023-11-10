@@ -1,0 +1,58 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #ff9933;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #fff;
+}
+
+#india-flag {
+  width: 100%;
+  height: auto;
+}
+
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+p {
+  line-height: 1.6;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin: 20px 0;
+}
+
+button {
+  background-color: #ff9933;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin: 10px;
+}
+
+button:hover {
+  background-color: #ff6600;
+}
+
+#quoteDisplay {
+  font-style: italic;
+  margin: 10px 0;
+  text-align: center;
+}

@@ -1,0 +1,39 @@
+img {
+  border: 2px solid blue;
+}
+
+h1 {
+  color: blue;
+}
+
+h2 {
+  color: lightblue;
+}
+
+h3 {
+  color: brown;
+}
+
+h4 {
+  color: darkmagenta;
+}
+
+div {
+  margin: 4px;
+}
+
+p {
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+img {
+  max-height: 500px;
+}
+
+body {
+  background: #669999;
+  color: yellow;
+}
+
+Ï
